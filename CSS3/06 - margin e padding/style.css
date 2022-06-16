@@ -1,0 +1,13 @@
+#exemplo {
+  background-color: green;
+  color: #fff;
+  width: 500px;
+  padding: 20px 30px 20px 30px;
+}
+
+#exemplo2 {
+background-color: rgb(255, 0, 0);
+color: #fff;
+width: 500px;
+margin: 20px 30px 20px 40px;
+}

@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: rgb(98, 109, 92);
+  font-size: 40;
+  font-family: "Times New Roman", Times, serif;
+}
+
+input[type=text] {
+  width: 200px;
+  background-color: #ccc;
+  height: 35px;
+}
+
+input[type=email] {
+  width: 200px;
+  background-color: #ccc;
+  height: 35px;
+}
+
+input[type=submit] {
+  width: 200px;
+  background-color: green
+}

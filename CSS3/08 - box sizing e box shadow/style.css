@@ -1,0 +1,2 @@
+* {box-sizing: border-box;}
+#conteúdo {background-color: brown; width: 300px; padding: 20px; box-shadow: 10px 10px 5px green;}

@@ -1,0 +1,3 @@
+#base {background-color: aqua; width: 600px; height: 600px;}
+#direita {background-color: blueviolet; width: 300px; height: 300px; float: left;}
+#esquerda {background-color: palevioletred; width: 300px; height: 300px; float: right;}
